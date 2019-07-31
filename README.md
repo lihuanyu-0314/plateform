@@ -11,3 +11,6 @@ https://spring.io/guides/gs/serving-web-content/
 https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent#generating-a-new-ssh-key
 
 
+##调用gitHub登录的API
+https://developer.github.com/apps/building-oauth-apps/creating-an-oauth-app/
+
