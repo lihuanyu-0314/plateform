@@ -4,7 +4,7 @@
 
 
 ##资料
-https://spring.io/guides/gs/serving-web-content/
+[Spring 文档](https://spring.io/guides/gs/serving-web-content/)
 
 
 ##工具
